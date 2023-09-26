@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Naveen Nuwantha</h1>
 <h3 align="center">A passionate Technologist from Sri Lanka.</h3>
+
 - 🌱 I’m currently learning **Technology**
+  
 - 💬 Ask me about **Technology**
+  
 - 📫 How to reach me **naveennuwantha@proton.me**
+  
 - 👨‍💻 All of my projects are available at **https://naveennuwanthalk.wordpress.com/**
+  
 - 📝 I regularly write articles on **https://naveennuwanthalk.wordpress.com/blog/**
+  
 - 📄 Know about my experiences **https://naveennuwanthalk.wordpress.com/profile/**
 
 <div> <a href="https://twitter.com/naveennuwantha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
