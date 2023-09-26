@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naveen Nuwantha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveennuwantha&label=Profile%20views&color=0e75b6&style=flat" alt="naveennuwantha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveennuwantha&theme=" alt="naveennuwantha" /></a> </p>
-
+<h3 align="center">A passionate Technologist from Sri Lanka.</h3>
 - 🌱 I’m currently learning **Technology**
 - 💬 Ask me about **Technology**
 - 📫 How to reach me **naveennuwantha@proton.me**
@@ -41,13 +38,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/naveennuwantha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="naveennuwantha" /></a></p><br><br>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveennuwantha&layout=compact&theme=" alt=naveennuwantha />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=naveennuwantha&show_icons=true&locale=en&theme=" alt="naveennuwantha" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=naveennuwantha&theme=" alt="naveennuwantha" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
